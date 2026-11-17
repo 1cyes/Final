@@ -3,10 +3,14 @@
   "course": "CS110",
   "name": "isaias gonzalez",
   "work": {
-    "project": "A story worth playing",
-    "path": "story",
+    "project": "Hello World",
+    "path": "arcade",
     "selected": [
-      "save"
+      "save",
+      "project-mark",
+      "tshirt",
+      "ai-promo",
+      "quick-card"
     ],
     "engine": "Unity / C#",
     "gitEvidence": "What ran was the notes I made in this website, and it was pushed to the github that was given at the beginning.",
