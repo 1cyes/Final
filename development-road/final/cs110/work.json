@@ -50,8 +50,8 @@
     "evidence": {},
     "dailyDraft": {
       "meeting": "CS110-2026-11-17",
-      "worked": "What I did was to",
-      "next": "",
+      "worked": "What I did was to plan everything with the team and figure out the role of each others",
+      "next": "To do next is to make the project come to life",
       "blocker": "",
       "evidence": ""
     },
@@ -124,7 +124,17 @@
       }
     ],
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "What I did was to plan everything with the team and figure out the role of each others",
+        "next": "To do next is to make the project come to life",
+        "blocker": "",
+        "evidence": "",
+        "tasks": []
+      }
+    ]
   },
   "team": {
     "name": "Hello World",
