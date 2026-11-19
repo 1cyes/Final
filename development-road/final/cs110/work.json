@@ -98,7 +98,7 @@
     "dailyDraft": {
       "meeting": "CS110-2026-11-19",
       "worked": "What I did was to organize the folder structure that I was going to use for the game in unity",
-      "next": "",
+      "next": "The next task to do is to finish the folder structure then start making the buildings and structures",
       "blocker": "",
       "evidence": ""
     },
@@ -238,6 +238,22 @@
         "blocker": "",
         "evidence": "",
         "tasks": []
+      },
+      {
+        "date": "2026-11-19",
+        "revision": 1,
+        "worked": "What I did was to organize the folder structure that I was going to use for the game in unity",
+        "next": "The next task to do is to finish the folder structure then start making the buildings and structures",
+        "blocker": "",
+        "evidence": "",
+        "tasks": [
+          {
+            "title": "Start the Unity 2D tests",
+            "due": "2026-11-22T13:21",
+            "done": false,
+            "result": ""
+          }
+        ]
       }
     ]
   },
