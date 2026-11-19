@@ -88,10 +88,10 @@
       "strokes": []
     },
     "huddle": {
-      "stage": 1,
+      "stage": 2,
       "returned": true,
       "goal": "We will produce a three level game that can me used in a mobile setting",
-      "personal": "",
+      "personal": "My role is to help with the game structure by making the buildings the items .",
       "questions": ""
     },
     "evidence": {},
